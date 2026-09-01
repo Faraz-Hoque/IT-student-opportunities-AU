@@ -29,25 +29,37 @@ The early-year-eligible space in Australia is genuinely small — mostly cadetsh
 
 ## 🏆 Competitions & Hackathons
 
-| Name | Eligibility | Date | Link |
-|---|---|---|---|
-| | | | |
+| Name | Eligibility | Location | Duration | Date / Deadline | Link |
+|---|---|---|---|---|---|
+| UNIHACK | Any uni/TAFE student in AU or NZ, 18+ | Melbourne (hybrid, online participation available) | 48 hours | March 12–14, 2027 (registration closes closer to date) | [unihack.net](https://www.unihack.net/) |
+| GovHack | Open to all, including 1st-year students — no restriction | Nodes in every major AU + NZ city | 46-hour weekend | Annual, typically late Aug (2025 was Aug 29–31) | [govhack.org](https://govhack.org/) |
+| Humanitarian Innovation Hackathon | Undergraduate students, AU/NZ/Pacific | Sydney (hybrid) | Weekend | Annual — check page for current dates | [hack-eng.sydney.edu.au](https://hack-eng.sydney.edu.au/) |
+| Hackathons Australia (directory) | Varies by event | All major AU cities | Varies | Rolling — live directory of every upcoming AU hackathon | [hackathonsaustralia.com.au](https://hackathonsaustralia.com.au/) |
 
 ---
 
 ## 🔬 Research Opportunities
 
-| Uni / Program | Eligibility | Link |
-|---|---|---|
-| | | |
+| Program | Org | Eligibility | Location | Duration | Deadline | Link |
+|---|---|---|---|---|---|---|
+| Summer/Winter Vacation Research Scholarship | Monash University | Completed 2nd year, strong WAM | Melbourne (Clayton) | 6–10 weeks over summer/winter break | Applications typically open mid-year | [monash.edu](https://www.monash.edu/study/fees-scholarships/scholarships/summer-winter) |
+| Engineering Summer Research Program | Monash University | Completed 2 years/96cp, WAM 80%+ | Melbourne (Clayton) | 10 weeks, summer | Check page — applications close before program start | [monash.edu](https://www.monash.edu/engineering/current-students/graduate-research/summer-research-program-scholarships) |
+| AMSI Vacation Research Scholarships | Australian Mathematical Sciences Institute (national, most unis participate) | Undergrad, math/CS-adjacent, strong record | Host university (varies) | ~6 weeks, summer | Applications typically open ~Aug, close ~Oct | [amsi.org.au](https://amsi.org.au/) |
+| Data61 Undergraduate Vacation Studentship | CSIRO Data61 | 3rd yr typical, "exceptional 2nd yr" considered | Various (project-dependent) | 8–12 weeks (Nov–Feb) | ~July/August annually | [prosple.com](https://au.prosple.com/graduate-employers/csiro) |
+
+> Most Group of 8 unis (Melbourne, Sydney, UNSW, ANU, UQ) run an equivalent summer research program — search "[your uni] summer research scholarship" if yours isn't listed here yet. Contributions welcome.
 
 ---
 
 ## 🎓 Scholarships
 
-| Name | Eligibility | Link |
-|---|---|---|
-| | | |
+| Name | Provider | Eligibility | Value | Deadline | Link |
+|---|---|---|---|---|---|
+| Generation Google Scholarship (APAC) | Google | 2nd–3rd yr undergrad, CS/CE/related, underrepresented in tech | USD $2,500 | Typically ~August annually | [buddy4study.com guide](https://www.buddy4study.com/article/generation-google-scholarship-apac) |
+| Data & Digital Cadet Program | Australian Public Service | 1yr completed, 1+ remaining — paid cadetship + tuition support | Salary + study support | ~May annually | [apsjobs.gov.au](https://content.apsjobs.gov.au/career-pathways/data-and-digital-cadet-program) |
+| Monash Winter/Summer Vacation Research Scholarship | Monash University | Completed 2nd year | $200–$500/week | Mid-year applications | [monash.edu](https://www.monash.edu/study/fees-scholarships/scholarships/summer-winter) |
+
+> Scholarship search engines like [scholarshipdb.net](https://scholarshipdb.net/) and your own university's scholarship portal are worth checking regularly — new CS-specific ones open throughout the year.
 
 ---
 
